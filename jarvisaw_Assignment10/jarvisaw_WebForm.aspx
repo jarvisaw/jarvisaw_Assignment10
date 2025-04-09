@@ -4,7 +4,7 @@ Name: Alex Jarvis
 email: jarvisaw@mail.uc.edu 
 Assignment Number: Assignment 10
 Due Date: 04/10/2025
-Course #/Section: IS3050 001
+Course #/Section: IS3050 001 
 Semester/Year: Spring Semester 2025
 Brief Description of the assignment: This assignment helped me familiarize myself with ASP.net elements as well as using GitHub.
 Brief Description of what this module does. This module covers web controls within ASP.Net and learning various properties within certain elements.
